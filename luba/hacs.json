@@ -1,0 +1,7 @@
+{
+  "name": "Mammotion Luba",
+  "domains": ["luba"],
+  "documentation": "https://www.home-assistant.io/integrations/luba",
+  "issue_tracker": "https://github.com/joshfedo/HA-Luba/issues",
+  "dependencies": ["bluetooth_adapters"]
+}
